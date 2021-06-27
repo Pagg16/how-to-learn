@@ -8,7 +8,7 @@
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  background-color:#f2f2f2 ;
+  background-color:#f2f2f2;
   position: relative;
   display: flex;
 }
@@ -172,7 +172,7 @@
   background: url('../images/feynman.png');
   background-repeat: no-repeat;
   background-position:left bottom;
-  background-size:867px 637px ;
+  background-size:867px 637px;
   background-color: #f2f2f2;
 }
 .feyman_title{
@@ -212,9 +212,6 @@
   background-color: #1f1f1f;
   position: relative;
   z-index: -2;
-}
-.digits{
-  width: 100%;
 }
 .dark_section-title{
   font-style:bold;
