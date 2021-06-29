@@ -217,7 +217,6 @@
 }
 .section-subtitle_theme_dark {
   color: white;
-  z-index: 1;
 }
 .table__cell_theme_dark {
   width: 200px;
