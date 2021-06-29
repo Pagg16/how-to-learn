@@ -210,7 +210,7 @@
   position: relative;
 }
 .section-title_theme_dark {
-  font-style: bold;
+  font-weight: bold;
   color: white;
   z-index: 1;
 }
