@@ -5,4 +5,10 @@
   z-index: 2;
   color: #2f80ed;
   font-weight: normal;
+  transition: .4s;
+  opacity: 1;
+}
+.header__link:hover {
+  transition: .4s;
+  opacity: .33;
 }

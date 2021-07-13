@@ -7,10 +7,8 @@
   top: 50%;
   text-decoration: none;
   color: #2f80ed;
-}
-.feynman__link{
   transition: .4s;
-  opacity: 1;
+  opacity: 1
 }
 .feynman__link:hover{
   transition: .4s;
